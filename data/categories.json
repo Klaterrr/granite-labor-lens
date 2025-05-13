@@ -1,0 +1,140 @@
+{
+  "subjects": [
+    {
+      "name": "1. Freedom of association, collective bargaining, and industrial relations",
+      "subcategories": [
+        {
+          "name": "1.1. Fundamental Conventions on Freedom of association and collective bargaining"
+        },
+        {
+          "name": "1.2. Freedom of association (agriculture, non-metropolitan territories)"
+        },
+        {
+          "name": "1.3. Industrial relations"
+        }
+      ]
+    },
+    {
+      "name": "2. Forced labour",
+      "subcategories": [
+        {
+          "name": "2.1. Fundamental Conventions on forced labour (and related Recommendations)"
+        }
+      ]
+    },
+    {
+      "name": "3. Elimination of child labour and protection of children and young persons",
+      "subcategories": [
+        {
+          "name": "3.1. Fundamental Conventions on child labour (and related Recommendations)"
+        },
+        {
+          "name": "3.2. Protection of children and young persons"
+        }
+      ]
+    },
+    {
+      "name": "4. Equality of opportunity and treatment",
+      "subcategories": [
+        {
+          "name": "4.1. Fundamental Conventions on equality of opportunity and treatment (and related Recommendations)"
+        },
+        {
+          "name": "4.2. Workers with family responsibilities"
+        },
+        {
+          "name": "4.3. Other instruments on equality of opportunity and treatment"
+        }
+      ]
+    },
+    {
+      "name": "5. Tripartite consultation",
+      "subcategories": [
+        {
+          "name": "5.1. Governance Convention on tripartite consultation (and related Recommendation)"
+        }
+      ]
+    },
+    {
+      "name": "6. Labour administration and inspection",
+      "subcategories": [
+        {
+          "name": "6.1. Governance Conventions on labour inspection (and related instruments)"
+        },
+        {
+          "name": "6.3. Labour administration"
+        }
+      ]
+    },
+    {
+      "name": "7. Employment policy and promotion",
+      "subcategories": [
+        {
+          "name": "7.1. Governance Convention on employment policy (and related Recommendations)"
+        },
+        {
+          "name": "7.2. Other instruments on employment policy and promotion"
+        }
+      ]
+    },
+    {
+      "name": "11. Working time",
+      "subcategories": [
+        {
+          "name": "11.1. Hours of work, weekly rest and paid leave"
+        },
+        {
+          "name": "11.2. Night work"
+        }
+      ]
+    },
+    {
+      "name": "12. Occupational safety and health",
+      "subcategories": [
+        {
+          "name": "12.1. Fundamental Conventions on Occupational safety and health"
+        },
+        {
+          "name": "12.2. General provisions"
+        },
+        {
+          "name": "12.3. Protection against specific risks"
+        },
+        {
+          "name": "12.4. Protection in specific branches of activity"
+        }
+      ]
+    },
+    {
+      "name": "13. Social security",
+      "subcategories": [
+        {
+          "name": "13.1. Comprehensive standards"
+        },
+        {
+          "name": "13.3. Medical care and sickness benefit"
+        },
+        {
+          "name": "13.4. Old-age, invalidity and survivors’ benefit"
+        },
+        {
+          "name": "13.5. Employment injury benefit"
+        },
+        {
+          "name": "13.6. Unemployment benefit"
+        },
+        {
+          "name": "13.7. Social security for migrant workers"
+        }
+      ]
+    },
+    {
+      "name": "18. Seafarers",
+      "subcategories": [
+        {
+          "name": "18.1. General provisions"
+        }
+      ]
+    }
+  ]
+}
